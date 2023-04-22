@@ -1,5 +1,5 @@
 {
-  "name": "element-plus",
+  "name": "aft-element-plus",
   "version": "0.0.0-dev.1",
   "description": "A Component Library for Vue 3",
   "keywords": [
@@ -36,7 +36,7 @@
   "jsdelivr": "dist/index.full.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/element-plus/element-plus.git"
+    "url": "git+https://github.com/atf-fe/element-plus.git"
   },
   "publishConfig": {
     "access": "public"
